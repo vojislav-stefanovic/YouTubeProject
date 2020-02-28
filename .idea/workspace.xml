@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a9e5457-b627-48b5-89c5-e678d4d28ac7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jwddb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAdeP1jFI8F7wPa9DeIP846iq0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/test-8 (1)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\ProjectAssignment\src\main\resources\static\assets\js" />
+      <recent name="E:\Java Projects\ProjectAssignment\src\main\resources\static\app\js" />
+      <recent name="E:\Java Projects\ProjectAssignment\src\main\resources\static\assets\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\ProjectAssignment\src\main\resources\static\assets\css" />
+      <recent name="E:\Java Projects\ProjectAssignment\src\main\resources\static\assets\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ProjectAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="project.ProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProjectApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9e5457-b627-48b5-89c5-e678d4d28ac7" name="Default Changelist" comment="" />
+      <created>1582389426341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582389426341</updated>
+      <workItem from="1582389429368" duration="16472000" />
+      <workItem from="1582462773466" duration="2840000" />
+      <workItem from="1582466316091" duration="12066000" />
+      <workItem from="1582569767567" duration="7266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582465568700">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582465568700" />
+    <state x="645" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1582475555728">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1582475555728" />
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582402661515">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582402661515" />
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1582581320128">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1582581320128" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089402" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089402" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1582479843522">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089402" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843522" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089402" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="272" key="GridCell.Tab.1.bottom" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.1.bottom/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089105" />
+    <state width="1637" height="272" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="272" key="GridCell.Tab.1.center" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.1.center/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089105" />
+    <state width="1637" height="272" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="272" key="GridCell.Tab.1.left" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.1.left/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089105" />
+    <state width="1637" height="272" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="272" key="GridCell.Tab.1.right" timestamp="1582479843523">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.1.right/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089105" />
+    <state width="1637" height="272" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843523" />
+    <state width="1637" height="226" key="GridCell.Tab.2.bottom" timestamp="1582479843515">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.2.bottom/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089106" />
+    <state width="1637" height="226" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843515" />
+    <state width="1637" height="226" key="GridCell.Tab.2.center" timestamp="1582479843514">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.2.center/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089106" />
+    <state width="1637" height="226" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843514" />
+    <state width="1637" height="226" key="GridCell.Tab.2.left" timestamp="1582479843514">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.2.left/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089106" />
+    <state width="1637" height="226" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843514" />
+    <state width="1637" height="226" key="GridCell.Tab.2.right" timestamp="1582479843514">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="200" key="GridCell.Tab.2.right/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582463089106" />
+    <state width="1637" height="226" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1582479843514" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1582465587130">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1680.1010@0.0.1680.1010" timestamp="1582465587130" />
+    <state x="454" y="170" key="Registry" timestamp="1582467527367">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="454" y="170" key="Registry/0.0.1680.1010@0.0.1680.1010" timestamp="1582467527367" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1582467047955">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582464457622" />
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1582467047955" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1582569766955">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1680.1010/1680.0.1366.728@0.0.1680.1010" timestamp="1582569766955" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582466349512" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1582398282062">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1582398282062" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1582467517598">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1582467517598" />
+  </component>
+</project>

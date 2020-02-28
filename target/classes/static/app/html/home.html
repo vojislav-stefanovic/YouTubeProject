@@ -1,0 +1,33 @@
+<div>
+
+    <div class="btn-group float-right">
+        <button ng-click="register()" class="btn btn-dark">Register</button>
+        <button ng-click="signUp()" class="btn btn-dark">Sign up</button>
+    </div>
+
+
+    <table class="table table-borderless">
+        <thead>
+            <tr>
+                <th>Video</th>
+                <th>Name</th>
+                <th>Views</th>
+                <th>Date uploaded</th>
+                <th>User channel</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="v in videos">
+                <td><a href="{{v.videoUrl}}" target="_blank"><img style="width: 200px" src="{{v.thumbnailUrl}}"></a></td>
+                <td><button class="btn btn-light" ng-click="videoPage(v.id)">{{v.videoName}}</button></td>
+                <td>{{v.views}}</td>
+                <td>{{v.date}}</td>
+                <td>{{v.user.userName}}</td>
+            </tr>
+        </tbody>
+
+
+    </table>
+
+
+</div>
